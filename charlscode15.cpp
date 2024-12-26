@@ -1,0 +1,1 @@
+const int totalRooms = 10;  // Increased room count
