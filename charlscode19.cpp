@@ -1,0 +1,1 @@
+// Refactor code for consistency, remove redundant statements, and improve readability.
